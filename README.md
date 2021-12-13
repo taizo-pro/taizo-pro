@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p align="left">I'm 25 years old, live in Chiba.</p>
+<!-- <p align="left">I'm 25 years old, live in Chiba.</p> -->
 
 <p align="left"> 
   <a href="https://github.com/taizo-pro/taizo-pro/">
