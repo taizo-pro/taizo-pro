@@ -14,12 +14,6 @@
   <a href="https://stackoverflow.com/users/5720201/taizo-pro">
     <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
   </a>
-  <a href="https://qiita.com/taizo_pro">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/taizo_pro/posts.svg" />
-  </a>
-  <a href="https://qiita.com/taizo_pro">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/taizo_pro/contributions.svg" />
-  </a>
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taizo-pro&show_icons=true&theme=tokyonight)
