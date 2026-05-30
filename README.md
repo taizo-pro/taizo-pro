@@ -5,7 +5,7 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-- 📫 How to reach me: [Twitter - @taizo_pro](https://twitter.com/taizo-pro)
+- 📫 How to reach me: [X - @taizo_pro](https://x.com/taizo_pro)
 <br>
 
 
